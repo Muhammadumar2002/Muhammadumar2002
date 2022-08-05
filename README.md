@@ -1,17 +1,11 @@
 <h3 align="center">Frontend dasturchi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumar2002&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumar2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumar2002" alt="muhammadumar2002" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Sass**
+- 🌱 Hozirda **HTML, CSS, Javascript, Sass ni o'rganyapman.**
 
-- 📫 How to reach me **muhammadumaryunusov86@gmail.com**
+- 📫 Email: **muhammadumaryunusov86@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
