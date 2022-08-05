@@ -3,7 +3,7 @@
 Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yil bahordan boshlagan.
 
 <p dir="auto">
-  <a href="" rel="nofollow"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Portfolio</a> |
+  <a href="https://mry-portfolio.netlify.app/" rel="nofollow"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Portfolio</a> |
   <a href="https://t.me/Space_probe" rel="nofollow"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Telegram</a> |
   <a href="muhammadumaryunusov86@gmail.com" rel="nofollow"><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Email</a></p> 
 
