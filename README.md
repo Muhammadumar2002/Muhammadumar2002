@@ -1,6 +1,8 @@
-<h3 align="center">Frontend dasturchi</h3>
+# Muhammadumar Yunusov
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Frontend dasturchi
+
+[portfolio] 
 
 - 🌱 Hozirda **HTML, CSS, Javascript, Sass ni o'rganyapman.**
 
