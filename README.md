@@ -1,6 +1,6 @@
 # Muhammadumar Yunusov
 
-Frontend dasturchi
+Frontend dasturchi. Frontend dasturlashni o'rganishni 2022-yil bahordan boshlagan.
 
 [portfolio] 
 
